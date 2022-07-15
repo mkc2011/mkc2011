@@ -32,11 +32,12 @@ https://github.com/nlohmann/json
 heyy bozo
 testing cache 222
 
+testing with vscode
 
 
 
 
-Study: GIT | 
+Study: GIT 
 
 Debug log  | Error handling (exception) | Core Dump (Segmentation fault) in C/C++ | 
 
